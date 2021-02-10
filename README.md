@@ -1,5 +1,8 @@
 # Black-Jack-card-game
 
+![how-to-play-blackjack-lead](https://user-images.githubusercontent.com/75733364/107475710-8c6cac80-6b9a-11eb-9f70-0182f3caeebf.jpg)
+
+
 Background:
 
 I created this project as a way to practice my Python skills.
